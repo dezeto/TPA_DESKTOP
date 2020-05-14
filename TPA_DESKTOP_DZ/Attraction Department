@@ -1,0 +1,39 @@
+Attraction Department 
+- Jadi ticket bisa expiry 
+- QR CODE harus uniqyer dan banyak validasi
+
+Maintenance Department
+- schedule untuk maintenance 
+- atraksi yang harus dimaintence
+- ada status sedang maintenance atau mulai maintenance atau selesai maintain
+- Jam mulai kapan dan apa yang dilakukan pada maintainnya
+
+Ride and Attraction Creative Department (RACD)
+- Jenis ride yang harus ditambah dan bagaimana cara kerjanya
+- Apa jenis purchasing juga harus dibilang ke Purchase Department
+- Kalau ditolak --> dinotify
+- Update / Remove --> sama kayak tambah atraksi
+- Ada status sedang konstruksi, atau dalam execution dan sbb
+
+Constrution Department
+- tugas dari RACD 
+- dapat mengubah status
+
+Restaurant 
+- Dining Room Department
+	- Buka 24 jam
+	- Validasi : visitor dari 
+	- Pembayaran : setelah tax, sebelum tax
+	- Rating dan feedback optional untuk customer
+- Kitchen Department
+	- Daftar order dari Dining ROom Division
+	- Input order bedasarkan QUEUE
+	- Status sendiri (cooking, finished, start)
+	- Jika ada ingredient yang diperlukan dapat dimasukkin ke Purchase Request
+
+Purchasing Department
+- Purchasing Request
+	- manage semua pengeluaran dan mengecek funding request kepada Accounting dan Finance 
+
+Accounting anad Finance
+- jika fund req diapprove maka bisa 
