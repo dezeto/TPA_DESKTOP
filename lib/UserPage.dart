@@ -264,7 +264,7 @@ class UserPageState extends State<UserPage> with AutomaticKeepAliveClientMixin {
                         formKey.currentState.save();
                         updateProfile();
                         // print('number : ' + this.number.toString());
-                        // getPaymentType(ioo);
+                        // getPaymentType();
                       }
                     },
                     child: Text(
