@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "355625655741",
+    "project_id": "rigsodz",
+    "storage_bucket": "rigsodz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355625655741:android:eb2bf388c03d4b091d06d4",
+        "android_client_info": {
+          "package_name": "com.sodz.foodPO"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355625655741-39nspjnk72ora0461cunq7d17c423la3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sodz.foodPO",
+            "certificate_hash": "8cb78cad42b3d0406f0f44121081717264ef9dbc"
+          }
+        },
+        {
+          "client_id": "355625655741-f03fasaig9t14afdkr4db63f34lpgdt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Qdx_j9BObK4VgfiPrJhiyApcUnOOAhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355625655741-f03fasaig9t14afdkr4db63f34lpgdt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
